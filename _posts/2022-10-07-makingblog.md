@@ -50,7 +50,7 @@ date: 2022-10-07
 
 - 아래 사이트 참고해서 layout 변경 (Site Settings, Site Author, Defaults, \_posts, Navigation 설정 등)
 - https://junhobaik.github.io/jekyll-apply-theme/
-- https://mmistakes.github.io/minimal-mistakes/docs/layouts/#custom-sidebar-content
+- https://mmistakes.github.io/minimal-mistakes/docs/layouts/#custom-sidebar-conten
 
 
 ## 5. 첫 포스팅 해보기
