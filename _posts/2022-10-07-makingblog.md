@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: GitHub 블로그 간단하게 만드는 법
 categories:
   - GitHub
