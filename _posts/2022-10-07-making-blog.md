@@ -4,7 +4,7 @@ title: GitHub 블로그 간단하게 만드는 법
 categories:
   - GitHub
 tags:
-  - [GitHub, Blog]
+  - [github, blog]
 toc: true
 toc_sticky: true
 date: 2022-10-07
