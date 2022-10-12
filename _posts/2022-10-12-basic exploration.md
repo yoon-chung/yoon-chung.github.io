@@ -2,7 +2,7 @@
 layout: single
 title: \[판다스 기초] 데이터 탐색
 categories:
-  - Pandas, EDA
+  - EDA
 tags:
   - [python, pandas, sklearn, ]
 toc: true
