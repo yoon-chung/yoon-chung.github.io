@@ -1,3 +1,15 @@
+---
+layout: single
+title: \[판다스 기초] 데이터 탐색
+categories:
+  - Pandas, EDA
+tags:
+  - [python, pandas, sklearn, ]
+toc: true
+toc_sticky: true
+date: 2022-10-12
+---
+
 ## Built-in 데이터셋 활용
 key-value형식의 dictionary 타입과 유사한 구조를 가진 datasets
 
