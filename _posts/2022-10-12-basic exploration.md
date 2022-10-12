@@ -4,7 +4,7 @@ title: \[판다스 기초] 데이터 탐색
 categories:
   - EDA
 tags:
-  - [python, pandas, sklearn, ]
+  - [python, pandas, sklearn]
 toc: true
 toc_sticky: true
 date: 2022-10-12
