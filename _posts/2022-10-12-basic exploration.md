@@ -80,7 +80,7 @@ labels
 
 
 
-### DataFrame으로 변환
+## DataFrame으로 변환
 
 
 ```python
@@ -256,7 +256,7 @@ df.info()
     memory usage: 5.4 KB
     
 
-#### `.describe()`
+### `.describe()`
 수치 데이터 요약
 
 
@@ -363,7 +363,7 @@ df.describe()
 
 
 
-#### `.iloc[ : ]`
+### `.iloc[ : ]`
 디폴트 인덱스로 슬라이싱
 
 
@@ -446,7 +446,7 @@ df.iloc[5:10] # 5행~ 9행
 
 
 
-#### `.max()` `.min()`
+### `.max()` `.min()`
 최대값 최소값
 
 
@@ -461,7 +461,7 @@ df["sepal length (cm)"].max()
 
 
 
-#### `df[df[c] > 6.0]`
+### `df[df[c] > 6.0]`
 c열 값이 6.0보다 큰 observation만 표시
 
 
@@ -593,7 +593,7 @@ df[df["sepal length (cm)"] > 6.0]
 
 
 
-#### `.unique()`
+### `.unique()`
 고유값
 
 
@@ -608,7 +608,7 @@ df['target'].unique()
 
 
 
-#### `.value_counts()`
+### `.value_counts()`
 고유값별로 개수 세기
 
 
@@ -626,7 +626,7 @@ df['target'].value_counts()
 
 
 
-#### `.sort_values()`
+### `.sort_values()`
 값 정렬
 
 
@@ -887,7 +887,7 @@ df.sort_values(by="sepal length (cm)", ascending=False).loc[5:10]
 
 
 
-#### 열 추가/삭제, 이름 변경
+### 열 추가/삭제, 이름 변경
 
 
 ```python
