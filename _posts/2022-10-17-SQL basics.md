@@ -1,4 +1,14 @@
-# SQL 기본
+---
+layout: single
+title: \[SQL] 기본문법과 응용예제
+categories:
+  - SQL
+tags:
+  - [sql, pandas]
+toc: true
+toc_sticky: true
+date: 2022-10-17
+---
 
 ## Tables and Basic Queries
 행: observations (또는 items, records)\
@@ -1797,8 +1807,5 @@ plt.ylabel('Number of Complaints')
 plt.show()
 ```
 
-
-    
-![png](output_59_0.png)
-    
+<p align="left"><img src="/assets/images/221017_output.png" width="500" height="300"></p>
 
