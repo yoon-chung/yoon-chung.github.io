@@ -219,7 +219,7 @@ conn.close()
 
 
 ```python
-dataset = db.connect("C:/Users/yooni/GA/CSE6040/NYC-311-2M.db", isolation_level=None)  # DB파일 생성 및 연결
+dataset = db.connect("C:/Users/NYC-311-2M.db", isolation_level=None)  # DB파일 생성 및 연결
 ```
 
 ### LIMIT
