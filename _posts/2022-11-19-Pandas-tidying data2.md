@@ -1,4 +1,14 @@
-# [판다스 기초] 데이터 정리 (2)
+---
+layout: single
+title: \[판다스 기초] 데이터 정리 (2)
+categories:
+  - Pandas
+tags:
+  - [python, pandas, tidying data]
+toc: true
+toc_sticky: true
+date: 2022-11-19
+---
 
 데이터 분석 목적에 따라, 컬럼 <-> 행 변화로 테이블 형태 자유롭게 변형 가능
 
