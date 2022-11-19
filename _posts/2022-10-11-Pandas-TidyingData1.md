@@ -1,6 +1,6 @@
 ---
 layout: single
-title: \[판다스 기초] 데이터 정리
+title: \[판다스 기초] 데이터 정리 (1)
 categories:
   - Pandas
 tags:
