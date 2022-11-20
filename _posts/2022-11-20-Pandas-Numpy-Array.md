@@ -267,7 +267,7 @@ print(d2)
     [ 2 12 22 32 42 52]
     
 
-### ` :: `  
+### `::`  
 인덱스 증가폭 2 (2칸 간격)
 
 
@@ -280,7 +280,7 @@ print(d3)
      [40 42 44]]
     
 
-### ` [start:] `
+### `[start:]`
 start 인덱스에서 마지막까지
 
 
@@ -437,7 +437,7 @@ print(g)
 
 ### shape이 다른 arrays끼리 비교 연산
 
-### ` Broadcasting`
+### `Broadcasting`
 
 
 ```python
