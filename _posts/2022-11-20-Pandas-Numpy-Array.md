@@ -1,4 +1,16 @@
-# Numpy
+---
+layout: single
+title: \[판다스 기초] Numpy로 Array 연산 (Matrix, Vector, 선형대수 계산)
+categories:
+  - Pandas
+tags:
+  - [python, pandas, numpy, array]
+toc: true
+toc_sticky: true
+date: 2022-11-20
+---
+
+## Numpy
 Numerical Python : Array 연산을 지원하는 패키지 (Matrix, Vector 등 사용하는 선형대수 계산) 
 
 
