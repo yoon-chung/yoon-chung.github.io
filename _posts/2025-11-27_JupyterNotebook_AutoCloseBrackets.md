@@ -16,8 +16,10 @@ date: 2025-11-27
 ## 2. 해결방법
 - Python Version 7.3.2
 <p align="center"><img src="/assets/images/11270.png" width="500" height="300"></p>
+
 - Settings -> Auto Close Brackets
-<p align="center"><img src="/assets/images/11271.png" width="500" height="300"></p>
+
+<p align="center"><img src="/assets/images/11271.png" width="400" height="500"></p>
 
 
 (끝)
